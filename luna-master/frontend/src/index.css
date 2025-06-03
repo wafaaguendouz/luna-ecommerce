@@ -1,0 +1,61 @@
+main{
+  min-height: 80vh;
+}
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.landing{
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 26px;
+  font-weight: bold;
+}
+.landingText{
+  color: white;
+  text-align: center;
+  margin: 80px;
+
+}
+.store{
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 26px;
+  font-weight: 600;
+
+}
+.storeText{
+  color: white;
+  text-align: center;
+  margin: 80px;
+
+}
+.orders{
+  color: #5E2D79;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 26px;
+  font-weight: bold;
+}
+.ordersText{
+  color: #5E2D79;
+  text-align: center;
+  margin: 14px;
+
+}
